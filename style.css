@@ -1,0 +1,57 @@
+
+
+
+.Boqsi {
+    background-color:#2C7DFA;
+    width: 288px;
+    height: 288px;
+    justify-content: center;
+    align-items: center;
+display: flex;
+flex-direction: column;
+border-radius: 10px;
+}
+.white {background-color: aqua; 
+    width: 320px;
+height: 497px;
+justify-content: center;
+padding-left: 16px;
+padding-top: 16px;
+border-radius: 20px;
+    }
+/* .teqst1 {
+margin-top: 350px;
+margin-right: 50px;
+display: flex;
+width: 285px;
+height: 54px;
+
+
+} */
+.teqsti2 {
+    color: var(--Grey, #7D889E);
+    text-align: center;
+    font-feature-settings: 'liga' off, 'clig' off;
+    
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.188px;
+    justify-content: center;
+}
+.teqsti1{
+
+    text-align: center;
+    font-size: 15px
+}
+.text{
+margin-top: 50px;    
+display: flex;
+width: 285px;
+height: 54px;
+justify-content: center;
+text-align: center;
+
+
+}
